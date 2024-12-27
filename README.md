@@ -1,6 +1,8 @@
 # Probability and Statistics Project
+## Project Overview
+This project focuses on analyzing and modeling data in R to apply the data science research pipeline in a novice-friendly manner. The goal is to engage with data collection, exploration, analysis, and interpretation using a multi-phase approach. The project spans multiple phases, from initial group formation to final report submission, providing insights into statistical modeling with practical data.
+
 ## Research question
-### What is the research question?
 As students, we were interested in a topic that pertained to education, and we are all from different backgrounds, which brought up many issues on how Race and graduation are linked. Thus, we have decided to determine and comprehend if a student’s Race affects their graduation and what factors into it.
 
 ## Description of data
