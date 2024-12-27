@@ -1,9 +1,9 @@
-# Probability and Statistics Project
+# Statistics Project
 ## Project Overview
-This project focuses on analyzing and modeling data in R to apply the data science research pipeline in a novice-friendly manner. The goal is to engage with data collection, exploration, analysis, and interpretation using a multi-phase approach. The project spans multiple phases, from initial group formation to final report submission, providing insights into statistical modeling with practical data.
+In this project, we focused on analyzing and modelling data in R, walking through the data science research pipeline in an approachable way for beginners. We aimed to dive into each process phase, from collecting and exploring the data to analyzing and interpreting the results. The project started with exploratory data analysis, examining patterns and relationships in the data. Then, we applied multiple linear regression to create a model, interpreted the results, and performed inference and residual analysis. Ultimately, we wrapped things up by discussing the key findings, conclusions, and questions for future exploration. This project gave us hands-on experience in statistical modelling and practical data analysis, all leading to the submission of a final report.
 
 ## Research question
-As students, we were interested in a topic that pertained to education, and we are all from different backgrounds, which brought up many issues on how Race and graduation are linked. Thus, we have decided to determine and comprehend if a student’s Race affects their graduation and what factors into it.
+As students, we know that commuting to school can be challenging, especially when living farther away. Our study aims to understand how factors like travel time and absences impact students' final math grades. We used a dataset from Kaggle, which surveyed students in two secondary schools, focusing on math grades as the outcome variable
 
 ## Description of data
 Finding the data was an essential component, as we wanted a city where there are different ethnicities or a town that is known to be very diverse. We chose New York and got the data on high school graduation rates during 2017 from the Department of Education. Also, we focused on the cohort year 2017, which was recent, and the data contains the percentage of dropouts for each Race in that same year.
